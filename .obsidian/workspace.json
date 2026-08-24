@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "66a019e1abd96dcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2b6f14da0256fb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f24e91275072361",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools for OSCP/Essentials Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Essentials Tools"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63e04221130e494d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c812577af8143d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cab5a0c4b0f9439f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a5e8b62922a8b236",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d1d1655dc3c5cd07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "513a1cca3a6fe648",
+    "type": "split",
+    "children": [
+      {
+        "id": "350fa38ba91e6cad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87db4a6db9017667",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "5c0d707e1d448d4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "e554c5f5f063ede5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "06ae9ac643f74648",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a6845bbfae75ac1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3f24e91275072361",
+  "lastOpenFiles": [
+    "Templates/Port Swigger Labs Templates.md",
+    "Tools for OSCP/Essentials Tools.md",
+    "Tools for OSCP",
+    "Templates/Pentest Target Template.md",
+    "Example- SQL Injection Write-Up.md",
+    "Command Injection",
+    "Write-up/path traversal lab.md",
+    "Untitled.md",
+    "Templates",
+    "write-ups.md",
+    "Web Application Vulnerabilities.base",
+    "Broken Authentication/Broken Authentication.md",
+    "Path Traversal/what is path traversal?.md",
+    "Path Traversal/Untitled.canvas",
+    "Web Enumeration/LIST.md",
+    "Web Enumeration",
+    "Broken Authentication",
+    "Path Traversal",
+    "2026-07-28.md",
+    "Untitled.canvas",
+    "Write-up"
+  ]
+}
