@@ -1,5 +1,14 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "176d5727-f413-48a0-994d-790d52c227bc",
+      "name": "New folder",
+      "type": "Multi",
+      "command": false,
+      "choices": [],
+      "collapsed": false
+    }
+  ],
   "inputPrompt": "single-line",
   "persistInputPromptDrafts": true,
   "useSelectionAsCaptureValue": true,
