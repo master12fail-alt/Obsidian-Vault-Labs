@@ -1,0 +1,10 @@
+{
+  "quickadd:applyTemplateToActiveFile": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}

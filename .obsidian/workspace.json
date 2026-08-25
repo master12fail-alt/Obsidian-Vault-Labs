@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "write-ups.md",
+                "file": "Write-up/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "write-ups"
+              "title": "Untitled"
             }
           }
         ]
@@ -199,14 +199,15 @@
   },
   "active": "3f24e91275072361",
   "lastOpenFiles": [
-    "Example- SQL Injection Write-Up.md",
     "write-ups.md",
+    "Write-up/Untitled.md",
+    "Example- SQL Injection Write-Up.md",
+    "Write-up/path traversal lab.md",
     "Tools for OSCP/Essentials Tools.md",
     "Templates/Port Swigger Labs Templates.md",
     "Tools for OSCP",
     "Templates/Pentest Target Template.md",
     "Command Injection",
-    "Write-up/path traversal lab.md",
     "Untitled.md",
     "Templates",
     "Web Application Vulnerabilities.base",
