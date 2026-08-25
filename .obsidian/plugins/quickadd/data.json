@@ -16,7 +16,8 @@
   "templateFolderLauncherRow": "bottom",
   "devMode": false,
   "templateFolderPaths": [
-    "Write-ups"
+    "Write-ups",
+    "Templates"
   ],
   "announceUpdates": "major",
   "version": "2.23.0",
