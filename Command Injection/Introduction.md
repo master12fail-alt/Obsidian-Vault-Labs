@@ -1,1 +1,1 @@
-when the developer builds an application that takes user input and passes it into a system command without proper checks, and attacker can inject additional c
+when the developer builds an application that takes user input and passes it into a system command without proper checks, and attacker can inject additional commands alongside the legitimate ones .
