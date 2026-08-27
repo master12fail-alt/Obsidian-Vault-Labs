@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEST/sup.md",
+                "file": "Command Injection/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sup"
+              "title": "Untitled"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "3f24e91275072361",
   "lastOpenFiles": [
-    "Untitled.md",
     "TEST/sup.md",
+    "Command Injection/Untitled.md",
+    "Untitled.md",
     "TEST/Untitled",
     "Books",
     "Write-up/Untitled.md",
