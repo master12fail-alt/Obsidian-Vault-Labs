@@ -16,4 +16,7 @@ PATCH Partial Update     - Modifies only the fields included in the request body
 DELETE Delete
 
 **Status code**
-200,201
+200,201,204,400,401,403,404,405,429,500
+
+**Request and Response structure**
+A typical API request 
