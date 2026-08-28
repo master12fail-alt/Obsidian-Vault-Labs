@@ -14,3 +14,6 @@ PUT Full Update      -Replaces an existing resource entirely. Omitted fields may
 PATCH Partial Update     - Modifies only the fields included in the request body. Everything else remains unchanged.
 
 DELETE Delete
+
+**Status code**
+200,201
