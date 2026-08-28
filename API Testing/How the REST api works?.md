@@ -19,4 +19,4 @@ DELETE Delete
 200,201,204,400,401,403,404,405,429,500
 
 **Request and Response structure**
-A typical API request consists of the HTTP method, the endpoint URL, headers(carrying the metadata such as authentication tokens and content type )
+A typical API request consists of the HTTP method, the endpoint URL, headers(carrying the metadata such as authentication tokens and content type ), and optionally a body (carrying the data payload). The vast majority of modern APIs uses JSON()
