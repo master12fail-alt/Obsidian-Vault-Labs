@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command Injection/Introduction.md",
+                "file": "API Testing/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Untitled"
             }
           }
         ]
@@ -199,8 +199,10 @@
   },
   "active": "3f24e91275072361",
   "lastOpenFiles": [
-    "TEST/sup.md",
     "Command Injection/Introduction.md",
+    "API Testing/Untitled.md",
+    "API Testing",
+    "TEST/sup.md",
     "Untitled.md",
     "TEST/Untitled",
     "Books",
@@ -222,7 +224,6 @@
     "Web Enumeration/LIST.md",
     "Web Enumeration",
     "Broken Authentication",
-    "Path Traversal",
     "2026-07-28.md",
     "Untitled.canvas"
   ]
