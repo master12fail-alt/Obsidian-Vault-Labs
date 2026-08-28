@@ -9,6 +9,8 @@ The core concept in a RESTfull api is resources . so basically the resource is a
 Each methods maps to a CRUD(Create, Read,Update Delete ) operations.
 GET Read
 POST Create
-PUT Full Update 
-PATCH Partial Update 
+PUT Full Update      -Replaces an existing resource entirely. Omitted fields may be set to null or a default value.
+
+PATCH Partial Update     - Modifies only the fields included in the request body. Everything else remains unchanged.
+
 DELETE Delete
