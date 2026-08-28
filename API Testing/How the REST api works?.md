@@ -7,3 +7,8 @@ The core concept in a RESTfull api is resources . so basically the resource is a
 
 **HTTP Methods**
 Each methods maps to a CRUD(Create, Read,Update Delete ) operations.
+GET Read
+POST Create
+PUT Full Update 
+PATCH Partial Update 
+DELETE Delete
