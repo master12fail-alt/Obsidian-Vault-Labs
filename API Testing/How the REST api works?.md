@@ -3,4 +3,4 @@ REST is Representational State Transfer . It is a architectural style, a set of 
 
 **RESOURCES and ENDPOINTS**
 
-The core concept in a RESTfull api is resources .
+The core concept in a RESTfull api is resources . so basically the resource is any object or a piece of data that 
