@@ -26,4 +26,5 @@ Bearer Tokens
 JSON Web Tokens(JWTs)
 
 **Broken authentication**
-Lack of Rate Limiting on Login Endpoints
+1. Lack of Rate Limiting on Login Endpoints
+2. JWT 
