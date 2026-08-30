@@ -27,4 +27,7 @@ JSON Web Tokens(JWTs)
 
 **Broken authentication**
 1. Lack of Rate Limiting on Login Endpoints
-2. JWT (Jason Web Token) 
+2. JWT (Jason Web Token)
+3. Excessive Data explosure
+
+
