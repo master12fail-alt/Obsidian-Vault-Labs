@@ -25,3 +25,4 @@ API keys
 Bearer Tokens
 JSON Web Tokens(JWTs)
 
+Broken authentication
