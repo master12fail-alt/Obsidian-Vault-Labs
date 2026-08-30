@@ -25,4 +25,5 @@ API keys
 Bearer Tokens
 JSON Web Tokens(JWTs)
 
-Broken authentication
+**Broken authentication**
+Lack of Rate Limiting on Login Endpoints

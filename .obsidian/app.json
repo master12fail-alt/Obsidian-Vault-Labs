@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "showLineNumber": true
 }
