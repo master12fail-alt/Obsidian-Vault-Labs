@@ -31,4 +31,4 @@ JSON Web Tokens(JWTs)
 3. Excessive Data explosure
 
 **Mass assignment**
-
+Mass assignment is the vulnerability that occurs when an API takes data from a client's request 
