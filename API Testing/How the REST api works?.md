@@ -37,3 +37,5 @@ Mass assignment is the vulnerability that occurs when an API takes data from a c
 1. Reconnaissance
 2. Escalate
 3. Extract flag
+
+Useful tools for real-world API testing include **Burpsuite** for intercepting API traffic, **Insomnia** and **Postman** for crafting and organising API requests, **ffuf** for endpoint brute-forcing, **jwt_tool** for JWT testing, and **OWASP** **ZAP** as an open-source alternative.
