@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automated Vulnerabilities Scanners/Untitled.md",
+                "file": "Automated Vulnerabilities Scanners/Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Tools"
             }
           }
         ],
@@ -215,7 +215,7 @@
   "active": "eb3e5fd13f66d147",
   "lastOpenFiles": [
     "Untitled.md",
-    "Automated Vulnerabilities Scanners/Untitled.md",
+    "Automated Vulnerabilities Scanners/Tools.md",
     "Web Enumeration/LIST.md",
     "Automated Vulnerabilities Scanners",
     "API Testing/How the REST api works?.md",
