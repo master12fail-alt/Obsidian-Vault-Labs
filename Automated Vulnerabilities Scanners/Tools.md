@@ -1,1 +1,1 @@
-tools such as Nessus,OpenVAS,and Nikto automate the process of matching services against vulne
+tools such as Nessus,OpenVAS,and Nikto automate the process of matching services against vulnerability databases.
