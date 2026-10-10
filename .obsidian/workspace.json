@@ -212,8 +212,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3e5fd13f66d147",
+  "active": "cab5a0c4b0f9439f",
   "lastOpenFiles": [
+    "Getting a Reverse Shell",
     "Untitled.md",
     "Automated Vulnerabilities Scanners/Tools.md",
     "Web Enumeration/LIST.md",
