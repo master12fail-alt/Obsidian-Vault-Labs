@@ -212,12 +212,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cab5a0c4b0f9439f",
+  "active": "eb3e5fd13f66d147",
   "lastOpenFiles": [
+    "Web Enumeration/LIST.md",
+    "Automated Vulnerabilities Scanners/Tools.md",
     "Getting a Reverse Shell",
     "Untitled.md",
-    "Automated Vulnerabilities Scanners/Tools.md",
-    "Web Enumeration/LIST.md",
     "Automated Vulnerabilities Scanners",
     "API Testing/How the REST api works?.md",
     "API Testing/Untitled.md",
@@ -241,7 +241,6 @@
     "Broken Authentication/Broken Authentication.md",
     "Path Traversal/what is path traversal?.md",
     "Path Traversal/Untitled.canvas",
-    "Web Enumeration",
     "2026-07-28.md",
     "Untitled.canvas"
   ]
